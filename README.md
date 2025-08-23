@@ -7,7 +7,7 @@
 ## 4.**[Digital Forensics](https://github.com/sherazi1214/Digital-Forensics)**
 
 
-## 6. Data Breach
+## 5. Data Breach
 
 **English:** A data breach is an incident where sensitive, protected, or confidential data is accessed, stolen, or exposed without authorization.
 
